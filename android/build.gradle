@@ -2,7 +2,7 @@ group 'devdox.connect.google_huawei_availability'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.9.10'
+    ext.kotlin_version = '1.8.22'
     repositories {
         google()
         mavenCentral()
